@@ -1,10 +1,6 @@
 ### Hi, I am Eric Banker 👋
 
-Initially I pursued a career in biology research, but switched to technology due to personal concerns. I have been programming as a hobby since 2014, and have over 3 years experience with JavaScript and Node.js. Over the last year, I have dedicated myself to building responsive front ends, REST-ful back ends, automated testing, and working on remote, cross-functional teams with Agile Scrum methodology.
-
-I am Eric Banker, a Full Stack Web Developer. My dream is to make meaningful contributions to the technology of healthcare, research, and entertainment.
-
-Currently working on: [Flap with Friends](https://github.com/EricBanker12/flap-with-friends)
+Initially I pursued a career in biology research, but due to personal circumstances, I changed focus toward software development. I have been programming as a hobby since 2014 and have specialized in full stack web development through recent projects and employment. I have strong technical depth in JavaScript, C#, and Python ecosystems, and as a Software Developer, I aim to contribute to the progress of modern healthcare and the enjoyment of technology.
 
 <!--
 **EricBanker12/EricBanker12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
